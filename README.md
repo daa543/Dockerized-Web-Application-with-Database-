@@ -25,6 +25,16 @@ The objective of this final project is to design and implement a web application
 
 
 # To run the code in docker
-1. command to build an image: docker-compose build
+command to build an image
+- docker-compose build
 
-2. command to build containers: docker-compose up
+command to build containers
+- docker-compose up
+
+# Ports:
+
+phpMyAdmin service
+localhost:8001
+
+Apache web server with PHP service
+localhost:80
