@@ -34,7 +34,7 @@ command to build containers
 # Ports:
 
 phpMyAdmin service
-localhost:8001
+- localhost:8001
 
 Apache web server with PHP service
-localhost:80
+- localhost:80
