@@ -22,3 +22,9 @@ The objective of this final project is to design and implement a web application
 - Create a docker-compose.yml file that includes the specifications for both containers. 
 - Configure the necessary environment variables, ports, and volumes in the docker compose.yml file.
 - Make sure the web server container can communicate with the database container. 
+
+
+# To run the code in docker
+1. command to build an image: docker-compose build
+
+2. command to build containers: docker-compose up
